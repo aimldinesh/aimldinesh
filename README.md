@@ -1,5 +1,4 @@
-![logo](https://github.com/dsml917/dsml917/blob/main/github-header-image%20(3).png)
-<h1 align="center">Hi 👋, I'm Dinesh Chaudhary</h1>
+![logo](https://github.com/dsml917/dsml917/blob/main/github-header-image%20(4).png)
 <h3 align="center">Aspiring Data Scientist with a Strong Foundation in Data Structures and algorithms, Python, Machine Learning and Deep Learning and Natural Language Processing and AWS</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
