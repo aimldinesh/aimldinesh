@@ -27,7 +27,7 @@
 <h5 align="left">3. Convolutional Neural Networks, Deeplearning.ai on Coursera.</h5>
 <h5 align="left">4. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning on Coursera.</h5>
 <h5 align="left">5. Getting Started with AWS Machine Learning on Coursera.</h5>
-<h5 align="left">6. Diploma in Data Science & Big Data Analytics, N.I.T.</h5>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsdinesh123&show_icons=true&locale=en&layout=compact" alt="dsdinesh123" /></p>
