@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **ML, DL, and Natural language Processing**
-- 📫 How to reach me **dinesh.data.ai@outlook.com**
+- 📫 How to reach me **dsdineshnitrr@gmail.com**
 
 <h3 align="left">Coding Challenges:</h3>
 <p align="left">
