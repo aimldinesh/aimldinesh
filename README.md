@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning project**
 
-- 🌱 I’m currently learning **MLOPS**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 💬 Ask me about **ML, DL, and Natural language Processing**
 - 📫 How to reach me **dsdineshnitrr@gmail.com**
