@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ML, DL, and Natural language Processing**
 - 📫 How to reach me **dsdineshnitrr@gmail.com**
-- 📫 Read my medium blogs **dsdineshnitrr@gmail.com**
+- 📫 Read my medium blogs **https://medium.com/@dsdineshnitrr**
 
 <h3 align="left">Coding Challenges:</h3>
 <p align="left">
