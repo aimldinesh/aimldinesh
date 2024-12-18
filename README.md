@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative Ai**
 
-- 💬 Ask me about **ML, DL, and Natural language Processing**
+- 💬 Ask me about **ML, DL, and Natural language Processing,and Gen Ai**
 - 📫 How to reach me **dsdineshnitrr@gmail.com**
 - 📫 Read my medium blogs **https://medium.com/@dsdineshnitrr**
 - 📫 Leetcode Profile **https://leetcode.com/u/dineshnitrr/**
