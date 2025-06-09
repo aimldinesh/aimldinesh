@@ -1,5 +1,5 @@
 ![logo](https://github.com/dineshml1/dineshml1/blob/main/github-header-image_final.png)
-<h3 align="center">Strong Foundation in Data Structures and algorithms, Python, Machine Learning, Deep Learning, Natural Language Processing  AWS and GCP.</h3>
+<h3 align="center">Strong Foundation in Data Structures and algorithms, Python, Machine Learning, Deep Learning, Natural Language Processing  GCP and AWS .</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
