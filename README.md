@@ -38,6 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimldinesh&show_icons=true&locale=en" alt="aimldinesh" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aimldinesh"/></a>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=aimldinesh)](https://git.io/streak-stats)
 
 
