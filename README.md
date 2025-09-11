@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently working on **Machine Learning project** with MLOps.
+- 🔭 I’m currently working on **Machine Learning project** with **MLOps**.
 
 - 🌱 I’m currently learning **Generative Ai.**
 
